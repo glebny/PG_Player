@@ -4,6 +4,11 @@
 #include <vector>
 #include "playlist.h"
 
+/*!
+ * \brief The PlaylistsManager class
+ *
+ * \details Class that regulates playlists workflow
+ */
 class PlaylistsManager
 {
 public:

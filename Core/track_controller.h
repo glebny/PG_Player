@@ -4,6 +4,11 @@
 #include "music.h"
 #include "timer.h"
 
+/*!
+ * \brief The TrackController class
+ *
+ * \details Class that controls tracks' workflow
+ */
 class TrackController
 {
 public:

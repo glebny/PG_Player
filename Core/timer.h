@@ -3,6 +3,11 @@
 
 #include <string>
 
+/*!
+ * \brief The Timer class
+ *
+ * \details Planned to be abstraction over QTimer
+ */
 class Timer
 {
 public:

@@ -5,6 +5,11 @@
 #include "music.h"
 #include "playlist.h"
 
+/*!
+ * \brief The FileSystem Handler class
+ *
+ * \details Class that handles work with filesystem (alongside UI-part).
+ */
 class FSHandler
 {
 public:

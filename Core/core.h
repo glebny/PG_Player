@@ -5,6 +5,11 @@
 #include "track_controller.h"
 #include "playlists_manager.h"
 
+/*!
+ * \brief The Core class
+ *
+ * \details Base core class (singleton)
+ */
 class Core
 {
 public:
